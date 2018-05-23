@@ -1,0 +1,11 @@
+# Ignore object and library files
+*.o
+*.a
+*.so
+
+# Ignore vim swap files
+*.swp
+
+# Ignore bazel cache directories
+bazel-*
+

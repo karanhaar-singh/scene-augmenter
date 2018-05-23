@@ -1,0 +1,6 @@
+./samples/assets/targets/0.png
+./samples/assets/targets/1.png
+./samples/assets/targets/2.png
+./samples/assets/targets/3.png
+./samples/assets/targets/4.png
+./samples/assets/targets/5.png
